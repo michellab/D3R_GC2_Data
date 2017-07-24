@@ -1,0 +1,24 @@
+FE_type = Sire
+AFE.separate_vdw_elec = False
+mcs.match_by = spatially-closest
+
+[globals]
+forcefield = amber, ff14SB, tip3p
+gaff = gaff2
+logfile = dGmorph.log
+
+[ligand]
+basedir = poses
+file.name = ligand.pdb
+box.type = rectangular
+
+morph_pairs = FXR_76      > Int02 /7=47 , Int02   > FXR_76 /47=7
+
+[protein]
+basedir = protein
+file.name = fxr_md_v4_wat.pdb
+molecules = SIM 
+
+[complex]
+box.type = rectangular
+
