@@ -1,0 +1,25 @@
+FE_type = Sire
+AFE.separate_vdw_elec = False
+mcs.match_by = spatially-closest
+
+[globals]
+forcefield = amber, ff14SB, tip3p
+gaff = gaff2
+logfile = dGmorph.log
+
+[ligand]
+basedir = poses
+file.name = ligand.pdb
+box.type = rectangular
+molecules = 1M, INT02
+
+morph_pairs = INT02 > 1M, 1M > INT02
+
+[protein]
+basedir = protein
+file.name = receptor_litd1_aligned_allH.pdb
+molecules = SIM 
+
+[complex]
+box.type = rectangular
+

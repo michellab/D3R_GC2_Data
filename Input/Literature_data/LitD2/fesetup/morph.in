@@ -1,0 +1,34 @@
+FE_type = Sire
+AFE.separate_vdw_elec = False
+mcs.match_by = spatially-closest
+
+[globals]
+forcefield = amber, ff14SB, tip3p
+gaff = gaff2
+logfile = dGmorph.log
+
+[ligand]
+basedir = poses
+file.name = ligand.pdb
+box.type = rectangular
+molecules = 1A,  1B,  1C,  1D,  1F_SR_BM1,  1F_SR_BM2,  1F_SS_BM1,
+	    1F_SS_BM2,  1G,  1H,  1I,  1K,  1L,  1M,  1N,  1P,  1Q,
+	    1R,  1S,  7,  8,  INT01,  INT02
+
+morph_pairs = 1A > 1D, 1D > 1A, 1A > 1B, 1B > 1A, 1A > 1C, 1C > 1A, 
+	      1D > 1B, 1B > 1D, 1B > 1C, 1C > 1B, 1A > 1L, 1L > 1A,
+              1A > INT01, INT01 > 1A, INT01 > 1G, 1G > INT01, 1G > 1H, 1H > 1G,
+ 	      INT01 > 1I, 1I > INT01, INT01 > 1F_SR_BM1, 1F_SR_BM1 > INT01,
+	      INT01 > 1F_SR_BM2, 1F_SR_BM2 > INT01, INT01 > 1F_SS_BM1, 1F_SS_BM1 > INT01, INT01 > 1F_SS_BM2, 1F_SS_BM2 > INT01,
+ 	      1A > INT02, INT02 > 1A, INT02 > 1M, 1M > INT02, INT02 > 1N, 1N > INT02, INT02 > 1K, 1K > INT02, 
+              1A > 1P, 1P > 1A, 1A > 1Q, 1Q > 1A, 1A > 8, 8 > 1A, 1A > 7, 7 > 1A, 1P > 1Q, 1Q > 1P, 1P > 1S, 1S > 1P, 
+	      1S > 7, 7 > 1S, 1Q > 1R, 1R > 1Q 
+
+[protein]
+basedir = protein
+file.name = receptor_litd1_aligned_allH.pdb
+molecules = SIM 
+
+[complex]
+box.type = rectangular
+

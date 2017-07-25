@@ -1,0 +1,153 @@
+REMARK   4      COMPLIES WITH FORMAT V. 3.0, 1-DEC-2006
+REMARK 888
+REMARK 888 WRITTEN BY MAESTRO (A PRODUCT OF SCHRODINGER, LLC)
+TITLE     Displayed atoms
+MODEL        1
+HETATM    1  C1  OKI A   2      43.214  11.995   1.664  1.00 37.67           C  
+HETATM    2  N2  OKI A   2      43.259  13.356   1.356  1.00 41.94           N  
+HETATM    3  C1  OKI A   2      43.335  11.246   0.529  1.00 37.15           C  
+HETATM    4  C4  OKI A   2      42.261  15.485   2.163  1.00 40.35           C  
+HETATM    5  C5  OKI A   2      43.381  14.436   2.341  1.00 39.37           C  
+HETATM    6  C6  OKI A   2      43.233  13.489  -0.035  1.00 39.27           C  
+HETATM    7  C7  OKI A   2      43.229  12.162  -0.563  1.00 37.64           C  
+HETATM    8  N8  OKI A   2      41.019  15.015   1.968  1.00 38.55           N  
+HETATM    9  C9  OKI A   2      43.067  11.488   3.019  1.00 39.90           C  
+HETATM   10  O10 OKI A   2      42.515  16.693   2.178  1.00 44.03           O  
+HETATM   11  C11 OKI A   2      44.829  15.022   2.382  1.00 42.31           C  
+HETATM   12  C12 OKI A   2      41.783  11.419   3.599  1.00 39.36           C  
+HETATM   13  C13 OKI A   2      44.172  10.986   3.738  1.00 41.73           C  
+HETATM   14  C14 OKI A   2      42.712  10.394   5.604  1.00 48.79           C  
+HETATM   15  C15 OKI A   2      39.847  15.858   1.814  1.00 34.27           C  
+HETATM   16  C16 OKI A   2      41.602  10.879   4.885  1.00 42.78           C  
+HETATM   17  C17 OKI A   2      44.000  10.437   5.027  1.00 45.65           C  
+HETATM   18 CL18 OKI A   2      42.476   9.708   7.177  1.00 55.53          Cl  
+HETATM   19  C19 OKI A   2      43.222  14.614  -0.888  1.00 38.11           C  
+HETATM   20  C20 OKI A   2      43.135  12.018  -1.968  1.00 40.11           C  
+HETATM   21  C21 OKI A   2      45.934  13.955   2.177  1.00 46.52           C  
+HETATM   22  C22 OKI A   2      45.114  15.791   3.694  1.00 43.86           C  
+HETATM   23  C23 OKI A   2      38.765  15.442   2.821  1.00 41.67           C  
+HETATM   24  C24 OKI A   2      39.319  15.796   0.368  1.00 39.08           C  
+HETATM   25  C25 OKI A   2      43.166  14.436  -2.278  1.00 41.88           C  
+HETATM   26  C26 OKI A   2      43.108  13.138  -2.816  1.00 39.37           C  
+HETATM   27  C27 OKI A   2      46.509  16.422   3.680  1.00 39.32           C  
+HETATM   28  C28 OKI A   2      47.338  14.571   2.181  1.00 46.98           C  
+HETATM   29  C29 OKI A   2      38.051  16.652   0.209  1.00 42.44           C  
+HETATM   30  C30 OKI A   2      37.524  16.341   2.670  1.00 36.57           C  
+HETATM   31  C31 OKI A   2      47.587  15.354   3.471  1.00 43.64           C  
+HETATM   32  C32 OKI A   2      36.975  16.276   1.236  1.00 39.74           C  
+HETATM   33  H5  OKI A   2      43.193  14.009   3.317  1.00  0.00           H  
+HETATM   34  HN8 OKI A   2      40.888  14.014   1.891  1.00  0.00           H  
+HETATM   35  H11 OKI A   2      44.916  15.727   1.553  1.00  0.00           H  
+HETATM   36  H12 OKI A   2      40.924  11.764   3.047  1.00  0.00           H  
+HETATM   37  H13 OKI A   2      45.158  11.003   3.305  1.00  0.00           H  
+HETATM   38  H15 OKI A   2      40.101  16.903   2.032  1.00  0.00           H  
+HETATM   39  H16 OKI A   2      40.607  10.832   5.310  1.00  0.00           H  
+HETATM   40  H17 OKI A   2      44.848  10.040   5.572  1.00  0.00           H  
+HETATM   41  H19 OKI A   2      43.254  15.603  -0.454  1.00  0.00           H  
+HETATM   42  H20 OKI A   2      43.103  11.031  -2.399  1.00  0.00           H  
+HETATM   43 H211 OKI A   2      45.804  13.420   1.236  1.00  0.00           H  
+HETATM   44 H212 OKI A   2      45.875  13.206   2.968  1.00  0.00           H  
+HETATM   45 H221 OKI A   2      45.037  15.104   4.536  1.00  0.00           H  
+HETATM   46 H222 OKI A   2      44.375  16.571   3.870  1.00  0.00           H  
+HETATM   47 H231 OKI A   2      39.146  15.514   3.843  1.00  0.00           H  
+HETATM   48 H232 OKI A   2      38.495  14.399   2.651  1.00  0.00           H  
+HETATM   49 H241 OKI A   2      39.098  14.765   0.097  1.00  0.00           H  
+HETATM   50 H242 OKI A   2      40.090  16.142  -0.324  1.00  0.00           H  
+HETATM   51  H25 OKI A   2      43.151  15.292  -2.923  1.00  0.00           H  
+HETATM   52  H26 OKI A   2      43.048  13.012  -3.886  1.00  0.00           H  
+HETATM   53 H271 OKI A   2      46.685  16.951   4.615  1.00  0.00           H  
+HETATM   54 H272 OKI A   2      46.570  17.172   2.891  1.00  0.00           H  
+HETATM   55 H281 OKI A   2      47.464  15.233   1.325  1.00  0.00           H  
+HETATM   56 H282 OKI A   2      48.092  13.789   2.081  1.00  0.00           H  
+HETATM   57 H291 OKI A   2      37.655  16.537  -0.794  1.00  0.00           H  
+HETATM   58 H292 OKI A   2      38.293  17.704   0.316  1.00  0.00           H  
+HETATM   59 H301 OKI A   2      37.785  17.370   2.912  1.00  0.00           H  
+HETATM   60 H302 OKI A   2      36.752  16.041   3.380  1.00  0.00           H  
+HETATM   61 H311 OKI A   2      47.599  14.674   4.326  1.00  0.00           H  
+HETATM   62 H312 OKI A   2      48.566  15.827   3.431  1.00  0.00           H  
+HETATM   63 H321 OKI A   2      36.589  15.270   1.029  1.00  0.00           H  
+HETATM   64 H322 OKI A   2      36.140  16.965   1.131  1.00  0.00           H  
+HETATM   65  H1  OKI A   2      43.480  10.178   0.601  1.00  0.00           H  
+CONECT    1    2    3    9
+CONECT    1    3
+CONECT    2    1    5    6
+CONECT    3    1    7   65
+CONECT    3    1
+CONECT    4    5    8   10
+CONECT    4   10
+CONECT    5    2    4   11   33
+CONECT    6    2    7   19
+CONECT    6    7
+CONECT    7    3    6   20
+CONECT    7    6
+CONECT    8    4   15   34
+CONECT    9    1   12   13
+CONECT    9   13
+CONECT   10    4
+CONECT   10    4
+CONECT   11    5   21   22   35
+CONECT   12    9   16   36
+CONECT   12   16
+CONECT   13    9   17   37
+CONECT   13    9
+CONECT   14   16   17   18
+CONECT   14   17
+CONECT   15    8   23   24   38
+CONECT   16   12   14   39
+CONECT   16   12
+CONECT   17   13   14   40
+CONECT   17   14
+CONECT   18   14
+CONECT   19    6   25   41
+CONECT   19   25
+CONECT   20    7   26   42
+CONECT   20   26
+CONECT   21   11   28   43   44
+CONECT   22   11   27   45   46
+CONECT   23   15   30   47   48
+CONECT   24   15   29   49   50
+CONECT   25   19   26   51
+CONECT   25   19
+CONECT   26   20   25   52
+CONECT   26   20
+CONECT   27   22   31   53   54
+CONECT   28   21   31   55   56
+CONECT   29   24   32   57   58
+CONECT   30   23   32   59   60
+CONECT   31   27   28   61   62
+CONECT   32   29   30   63   64
+CONECT   33    5
+CONECT   34    8
+CONECT   35   11
+CONECT   36   12
+CONECT   37   13
+CONECT   38   15
+CONECT   39   16
+CONECT   40   17
+CONECT   41   19
+CONECT   42   20
+CONECT   43   21
+CONECT   44   21
+CONECT   45   22
+CONECT   46   22
+CONECT   47   23
+CONECT   48   23
+CONECT   49   24
+CONECT   50   24
+CONECT   51   25
+CONECT   52   26
+CONECT   53   27
+CONECT   54   27
+CONECT   55   28
+CONECT   56   28
+CONECT   57   29
+CONECT   58   29
+CONECT   59   30
+CONECT   60   30
+CONECT   61   31
+CONECT   62   31
+CONECT   63   32
+CONECT   64   32
+CONECT   65    3
+ENDMDL
+END   
