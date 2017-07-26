@@ -1,0 +1,664 @@
+version 1
+molecule LIG
+	atom
+		name S1
+		initial_type    sy
+		final_type      sy
+		initial_LJ      3.53241  0.28240
+		final_LJ        3.53241  0.28240
+		initial_charge  1.54709
+		final_charge    1.54820
+	endatom
+	atom
+		name N2
+		initial_type    n
+		final_type      n
+		initial_LJ      3.18086  0.16360
+		final_LJ        3.18086  0.16360
+		initial_charge -0.37111
+		final_charge   -0.37400
+	endatom
+	atom
+		name C3
+		initial_type    c
+		final_type      c
+		initial_LJ      3.31521  0.09880
+		final_LJ        3.31521  0.09880
+		initial_charge  0.69839
+		final_charge    0.69850
+	endatom
+	atom
+		name C4
+		initial_type    c3
+		final_type      c3
+		initial_LJ      3.39771  0.10780
+		final_LJ        3.39771  0.10780
+		initial_charge -0.04982
+		final_charge   -0.04870
+	endatom
+	atom
+		name C5
+		initial_type    ca
+		final_type      ca
+		initial_LJ      3.31521  0.09880
+		final_LJ        3.31521  0.09880
+		initial_charge -0.14241
+		final_charge   -0.14030
+	endatom
+	atom
+		name C6
+		initial_type    ca
+		final_type      ca
+		initial_LJ      3.31521  0.09880
+		final_LJ        3.31521  0.09880
+		initial_charge  0.07749
+		final_charge    0.07460
+	endatom
+	atom
+		name N7
+		initial_type    n3
+		final_type      n3
+		initial_LJ      3.36510  0.08580
+		final_LJ        3.36510  0.08580
+		initial_charge -0.80861
+		final_charge   -0.80850
+	endatom
+	atom
+		name C8
+		initial_type    c3
+		final_type      c3
+		initial_LJ      3.39771  0.10780
+		final_LJ        3.39771  0.10780
+		initial_charge -0.08401
+		final_charge   -0.08440
+	endatom
+	atom
+		name C9
+		initial_type    c3
+		final_type      c3
+		initial_LJ      3.39771  0.10780
+		final_LJ        3.39771  0.10780
+		initial_charge -0.08401
+		final_charge   -0.08440
+	endatom
+	atom
+		name O10
+		initial_type    o
+		final_type      o
+		initial_LJ      3.04812  0.14630
+		final_LJ        3.04812  0.14630
+		initial_charge -0.65291
+		final_charge   -0.65280
+	endatom
+	atom
+		name O11
+		initial_type    o
+		final_type      o
+		initial_LJ      3.04812  0.14630
+		final_LJ        3.04812  0.14630
+		initial_charge -0.65291
+		final_charge   -0.65280
+	endatom
+	atom
+		name C12
+		initial_type    c3
+		final_type      c3
+		initial_LJ      3.39771  0.10780
+		final_LJ        3.39771  0.10780
+		initial_charge  0.14919
+		final_charge    0.14630
+	endatom
+	atom
+		name C13
+		initial_type    ca
+		final_type      ca
+		initial_LJ      3.31521  0.09880
+		final_LJ        3.31521  0.09880
+		initial_charge -0.16411
+		final_charge   -0.16400
+	endatom
+	atom
+		name O14
+		initial_type    o
+		final_type      o
+		initial_LJ      3.04812  0.14630
+		final_LJ        3.04812  0.14630
+		initial_charge -0.60161
+		final_charge   -0.60050
+	endatom
+	atom
+		name C15
+		initial_type    ca
+		final_type      ca
+		initial_LJ      3.31521  0.09880
+		final_LJ        3.31521  0.09880
+		initial_charge -0.05112
+		final_charge   -0.05100
+	endatom
+	atom
+		name C16
+		initial_type    c3
+		final_type      c3
+		initial_LJ      3.39771  0.10780
+		final_LJ        3.39771  0.10780
+		initial_charge  0.22769
+		final_charge    0.22780
+	endatom
+	atom
+		name C17
+		initial_type    c3
+		final_type      c3
+		initial_LJ      3.39771  0.10780
+		final_LJ        3.39771  0.10780
+		initial_charge  0.22769
+		final_charge    0.22780
+	endatom
+	atom
+		name C18
+		initial_type    ca
+		final_type      nb
+		initial_LJ      3.31521  0.09880
+		final_LJ        3.38417  0.09410
+		initial_charge -0.12011
+		final_charge   -0.65700
+	endatom
+	atom
+		name C19
+		initial_type    ca
+		final_type      ca
+		initial_LJ      3.31521  0.09880
+		final_LJ        3.31521  0.09880
+		initial_charge -0.13161
+		final_charge    0.39320
+	endatom
+	atom
+		name C20
+		initial_type    ca
+		final_type      ca
+		initial_LJ      3.31521  0.09880
+		final_LJ        3.31521  0.09880
+		initial_charge -0.13161
+		final_charge    0.39320
+	endatom
+	atom
+		name C21
+		initial_type    ca
+		final_type      ca
+		initial_LJ      3.31521  0.09880
+		final_LJ        3.31521  0.09880
+		initial_charge -0.06301
+		final_charge   -0.06190
+	endatom
+	atom
+		name C22
+		initial_type    ca
+		final_type      ca
+		initial_LJ      3.31521  0.09880
+		final_LJ        3.31521  0.09880
+		initial_charge -0.12541
+		final_charge   -0.08430
+	endatom
+	atom
+		name C23
+		initial_type    ca
+		final_type      ca
+		initial_LJ      3.31521  0.09880
+		final_LJ        3.31521  0.09880
+		initial_charge -0.06511
+		final_charge   -0.06500
+	endatom
+	atom
+		name C24
+		initial_type    ca
+		final_type      ca
+		initial_LJ      3.31521  0.09880
+		final_LJ        3.31521  0.09880
+		initial_charge -0.11261
+		final_charge   -0.23180
+	endatom
+	atom
+		name C25
+		initial_type    ca
+		final_type      ca
+		initial_LJ      3.31521  0.09880
+		final_LJ        3.31521  0.09880
+		initial_charge -0.11261
+		final_charge   -0.23180
+	endatom
+	atom
+		name Br26
+		initial_type    br
+		final_type      br
+		initial_LJ      3.61259  0.39320
+		final_LJ        3.61259  0.39320
+		initial_charge -0.08121
+		final_charge   -0.07810
+	endatom
+	atom
+		name C27
+		initial_type    cc
+		final_type      cc
+		initial_LJ      3.31521  0.09880
+		final_LJ        3.31521  0.09880
+		initial_charge -0.50271
+		final_charge   -0.50360
+	endatom
+	atom
+		name S28
+		initial_type    ss
+		final_type      ss
+		initial_LJ      3.53241  0.28240
+		final_LJ        3.53241  0.28240
+		initial_charge  0.27309
+		final_charge    0.27420
+	endatom
+	atom
+		name C29
+		initial_type    cc
+		final_type      cc
+		initial_LJ      3.31521  0.09880
+		final_LJ        3.31521  0.09880
+		initial_charge -0.17721
+		final_charge   -0.17710
+	endatom
+	atom
+		name C30
+		initial_type    cd
+		final_type      cd
+		initial_LJ      3.31521  0.09880
+		final_LJ        3.31521  0.09880
+		initial_charge -0.18011
+		final_charge   -0.18000
+	endatom
+	atom
+		name C31
+		initial_type    cd
+		final_type      cd
+		initial_LJ      3.31521  0.09880
+		final_LJ        3.31521  0.09880
+		initial_charge -0.03211
+		final_charge   -0.03200
+	endatom
+	atom
+		name H32
+		initial_type    hc
+		final_type      hc
+		initial_LJ      2.60018  0.02080
+		final_LJ        2.60018  0.02080
+		initial_charge  0.06659
+		final_charge    0.06670
+	endatom
+	atom
+		name H33
+		initial_type    hc
+		final_type      hc
+		initial_LJ      2.60018  0.02080
+		final_LJ        2.60018  0.02080
+		initial_charge  0.06659
+		final_charge    0.06670
+	endatom
+	atom
+		name H34
+		initial_type    hc
+		final_type      hc
+		initial_LJ      2.60018  0.02080
+		final_LJ        2.60018  0.02080
+		initial_charge  0.06659
+		final_charge    0.06670
+	endatom
+	atom
+		name H35
+		initial_type    hc
+		final_type      hc
+		initial_LJ      2.60018  0.02080
+		final_LJ        2.60018  0.02080
+		initial_charge  0.06659
+		final_charge    0.06670
+	endatom
+	atom
+		name H36
+		initial_type    h1
+		final_type      h1
+		initial_LJ      2.42200  0.02080
+		final_LJ        2.42200  0.02080
+		initial_charge  0.07159
+		final_charge    0.07470
+	endatom
+	atom
+		name H37
+		initial_type    h1
+		final_type      h1
+		initial_LJ      2.42200  0.02080
+		final_LJ        2.42200  0.02080
+		initial_charge  0.07159
+		final_charge    0.07470
+	endatom
+	atom
+		name H38
+		initial_type    ha
+		final_type      ha
+		initial_LJ      2.62548  0.01610
+		final_LJ        2.62548  0.01610
+		initial_charge  0.14589
+		final_charge    0.14500
+	endatom
+	atom
+		name H39
+		initial_type    ha
+		final_type      ha
+		initial_LJ      2.62548  0.01610
+		final_LJ        2.62548  0.01610
+		initial_charge  0.15589
+		final_charge    0.15700
+	endatom
+	atom
+		name H40
+		initial_type    h1
+		final_type      h1
+		initial_LJ      2.42200  0.02080
+		final_LJ        2.42200  0.02080
+		initial_charge  0.05909
+		final_charge    0.05945
+	endatom
+	atom
+		name H41
+		initial_type    h1
+		final_type      h1
+		initial_LJ      2.42200  0.02080
+		final_LJ        2.42200  0.02080
+		initial_charge  0.05909
+		final_charge    0.05945
+	endatom
+	atom
+		name H42
+		initial_type    h1
+		final_type      h1
+		initial_LJ      2.42200  0.02080
+		final_LJ        2.42200  0.02080
+		initial_charge  0.05909
+		final_charge    0.05945
+	endatom
+	atom
+		name H43
+		initial_type    h1
+		final_type      h1
+		initial_LJ      2.42200  0.02080
+		final_LJ        2.42200  0.02080
+		initial_charge  0.05909
+		final_charge    0.05945
+	endatom
+	atom
+		name H44
+		initial_type    ha
+		final_type      h4
+		initial_LJ      2.62548  0.01610
+		final_LJ        2.53639  0.01610
+		initial_charge  0.13439
+		final_charge    0.02510
+	endatom
+	atom
+		name H45
+		initial_type    ha
+		final_type      h4
+		initial_LJ      2.62548  0.01610
+		final_LJ        2.53639  0.01610
+		initial_charge  0.13439
+		final_charge    0.02510
+	endatom
+	atom
+		name H46
+		initial_type    ha
+		final_type      ha
+		initial_LJ      2.62548  0.01610
+		final_LJ        2.62548  0.01610
+		initial_charge  0.14989
+		final_charge    0.15100
+	endatom
+	atom
+		name H47
+		initial_type    ha
+		final_type      ha
+		initial_LJ      2.62548  0.01610
+		final_LJ        2.62548  0.01610
+		initial_charge  0.13889
+		final_charge    0.15100
+	endatom
+	atom
+		name H48
+		initial_type    ha
+		final_type      ha
+		initial_LJ      2.62548  0.01610
+		final_LJ        2.62548  0.01610
+		initial_charge  0.13889
+		final_charge    0.15100
+	endatom
+	atom
+		name H49
+		initial_type    ha
+		final_type      ha
+		initial_LJ      2.62548  0.01610
+		final_LJ        2.62548  0.01610
+		initial_charge  0.16289
+		final_charge    0.16400
+	endatom
+	atom
+		name H50
+		initial_type    h4
+		final_type      h4
+		initial_LJ      2.53639  0.01610
+		final_LJ        2.53639  0.01610
+		initial_charge  0.18089
+		final_charge    0.18100
+	endatom
+	atom
+		name H51
+		initial_type    ha
+		final_type      ha
+		initial_LJ      2.62548  0.01610
+		final_LJ        2.62548  0.01610
+		initial_charge  0.17589
+		final_charge    0.17600
+	endatom
+	atom
+		name H52
+		initial_type    ha
+		final_type      du
+		initial_LJ      2.62548  0.01610
+		final_LJ        0.00000  0.00000
+		initial_charge  0.13389
+		final_charge    0.00000
+	endatom
+	bond
+		atom0   C18
+		atom1   H52
+		initial_force 395.72
+		initial_equil 1.086
+		final_force   395.72
+		final_equil   1.086
+	endbond
+	bond
+		atom0   C19
+		atom1   H44
+		initial_force 395.72
+		initial_equil 1.086
+		final_force   390.15
+		final_equil   1.089
+	endbond
+	bond
+		atom0   C20
+		atom1   H45
+		initial_force 395.72
+		initial_equil 1.086
+		final_force   390.15
+		final_equil   1.089
+	endbond
+	bond
+		atom0   C18
+		atom1   C19
+		initial_force 378.57
+		initial_equil 1.398
+		final_force   414.24
+		final_equil   1.339
+	endbond
+	bond
+		atom0   C18
+		atom1   C20
+		initial_force 378.57
+		initial_equil 1.398
+		final_force   414.24
+		final_equil   1.339
+	endbond
+	angle
+		atom0   C18
+		atom1   C20
+		atom2   C24
+		initial_force 68.767
+		initial_equil 2.09474507
+		final_force   86.849
+		final_equil   2.1457087
+	endangle
+	angle
+		atom0   C18
+		atom1   C20
+		atom2   H45
+		initial_force 48.68
+		initial_equil 2.0923016
+		final_force   64.066
+		final_equil   2.0251064
+	endangle
+	angle
+		atom0   C19
+		atom1   C18
+		atom2   C20
+		initial_force 68.767
+		initial_equil 2.09474507
+		final_force   70.356
+		final_equil   2.04587583
+	endangle
+	angle
+		atom0   C25
+		atom1   C19
+		atom2   H44
+		initial_force 48.68
+		initial_equil 2.0923016
+		final_force   48.561
+		final_equil   2.10033012
+	endangle
+	angle
+		atom0   C19
+		atom1   C18
+		atom2   H52
+		initial_force 48.68
+		initial_equil 2.0923016
+		final_force   48.68
+		final_equil   2.0923016
+	endangle
+	angle
+		atom0   C18
+		atom1   C19
+		atom2   H44
+		initial_force 48.68
+		initial_equil 2.0923016
+		final_force   64.066
+		final_equil   2.0251064
+	endangle
+	angle
+		atom0   C24
+		atom1   C20
+		atom2   H45
+		initial_force 48.68
+		initial_equil 2.0923016
+		final_force   48.561
+		final_equil   2.10033012
+	endangle
+	angle
+		atom0   C20
+		atom1   C18
+		atom2   H52
+		initial_force 48.68
+		initial_equil 2.0923016
+		final_force   48.68
+		final_equil   2.0923016
+	endangle
+	angle
+		atom0   C18
+		atom1   C19
+		atom2   C25
+		initial_force 68.767
+		initial_equil 2.09474507
+		final_force   86.849
+		final_equil   2.1457087
+	endangle
+	dihedral
+		atom0   C25
+		atom1   C19
+		atom2   C18
+		atom3   H52
+		initial_form 3.625 2.0 3.141594
+		final_form 0.0 0.0 0.0
+	enddihedral
+	dihedral
+		atom0   C24
+		atom1   C20
+		atom2   C18
+		atom3   H52
+		initial_form 3.625 2.0 3.141594
+		final_form 0.0 0.0 0.0
+	enddihedral
+	dihedral
+		atom0   C20
+		atom1   C18
+		atom2   C19
+		atom3   H44
+		initial_form 3.625 2.0 3.141594
+		final_form 4.8 2.0 3.141594
+	enddihedral
+	dihedral
+		atom0   H44
+		atom1   C19
+		atom2   C18
+		atom3   H52
+		initial_form 3.625 2.0 3.141594
+		final_form 0.0 0.0 0.0
+	enddihedral
+	dihedral
+		atom0   C19
+		atom1   C18
+		atom2   C20
+		atom3   H45
+		initial_form 3.625 2.0 3.141594
+		final_form 4.8 2.0 3.141594
+	enddihedral
+	dihedral
+		atom0   H45
+		atom1   C20
+		atom2   C18
+		atom3   H52
+		initial_form 3.625 2.0 3.141594
+		final_form 0.0 0.0 0.0
+	enddihedral
+	dihedral
+		atom0   C19
+		atom1   C18
+		atom2   C20
+		atom3   C24
+		initial_form 3.625 2.0 3.141594
+		final_form 4.8 2.0 3.141594
+	enddihedral
+	dihedral
+		atom0   C20
+		atom1   C18
+		atom2   C19
+		atom3   C25
+		initial_form 3.625 2.0 3.141594
+		final_form 4.8 2.0 3.141594
+	enddihedral
+	improper
+		atom0   C19
+		atom1   C20
+		atom2   C18
+		atom3   H52
+		initial_form 1.1 2.0 3.141594 
+		final_form 0.0 0.0 0.0 
+	endimproper
+endmolecule
