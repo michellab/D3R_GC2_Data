@@ -1,0 +1,14 @@
+#@@@@@@
+#perturbation                                   DG_free_to_bound  err
+FXR_10_BM1,Int01_BM1,-6.95,0.08
+Int01_BM1,FXR_10_BM1,6.19,0.08
+#####
+FXR_76,FXR_77_BM2,-2.55,0.13
+FXR_77_BM2,FXR_76,1.97,0.13
+#####
+FXR_83_BM2,FXR_82_BM2,1.22,0.14
+FXR_82_BM2,FXR_83_BM2,-1.96,0.15
+#####
+FXR_79_BM1B,Int01_BM1,-8.19,0.08
+Int01_BM1,FXR_79_BM1B,10.32,0.08
+#####

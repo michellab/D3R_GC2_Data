@@ -1,0 +1,24 @@
+# The following lines list the ligands and your predicted,,
+# binding free energies for them, in kcal/mol. ,
+# If you computed relative binding free energies, please reference,
+# your result to the first ligand in the list below.
+#,,
+#LigandID, Binding Free Energy (kcal/mol), Uncertainty (SEM in kcal/mol)
+FXR_10,0.00,0.00
+FXR_12,-2.99,0.90
+FXR_38,-0.83,0.54
+FXR_41,-3.07,0.96
+FXR_73,-0.13,0.79
+FXR_74,-3.26,0.85
+FXR_75,1.07,0.66
+FXR_76,-1.39,0.51
+FXR_77,-4.39,0.92
+FXR_78,-2.59,0.60
+FXR_79,-0.21,1.35
+FXR_81,-4.50,0.98
+FXR_82,-3.57,0.90
+FXR_83,-2.84,1.04
+FXR_84,-2.43,0.89
+FXR_85,-3.11,0.83
+FXR_88,-3.63,0.85
+FXR_89,-0.75,0.63
